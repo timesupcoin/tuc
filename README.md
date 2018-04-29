@@ -15,3 +15,7 @@ Windows and Linux Wallets Available
 
 
 PoW/PoS
+
+Scrypt
+
+Ready for cpu mining 
