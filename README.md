@@ -14,4 +14,4 @@ Windows and Linux Wallets Available
 
 
 
-Type	PoW/PoS
+PoW/PoS
